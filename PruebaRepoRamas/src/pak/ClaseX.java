@@ -6,6 +6,8 @@ public class ClaseX
 	{
 		return "hello world";
 	}
+	
+	private double atributo = 0.0;
 }
 
 
