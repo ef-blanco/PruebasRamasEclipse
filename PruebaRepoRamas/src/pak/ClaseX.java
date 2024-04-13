@@ -8,6 +8,9 @@ public class ClaseX
 	}
 	
 	private double atributo = 0.0;
+
+    private int at = 200;
 }
+
 
 
