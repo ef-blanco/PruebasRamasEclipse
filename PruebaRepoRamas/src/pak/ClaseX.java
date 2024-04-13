@@ -1,5 +1,9 @@
 package pak;
 
-public class ClaseX {
-
+public class ClaseX 
+{
+	public String holaMundo () 
+	{
+		return "hola mundo";
+	}
 }
